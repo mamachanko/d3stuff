@@ -1,0 +1,29 @@
+html, body {
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+svg {
+  width: 100%;
+  height: 100%;
+}
+
+/*svg text {
+  fill: tomato;
+}*/
+
+
+circle {
+  fill: rgb(31, 119, 180);
+  fill-opacity: .25;
+  stroke: rgb(31, 119, 180);
+  stroke-width: 1px;
+}
+
+.leaf circle {
+  fill: #ff7f0e;
+  fill-opacity: 1;
+}
